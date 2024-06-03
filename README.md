@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Arpitgarg07](https://github.com/Arpitgarg07)
 
 - 📫 How to reach me **arpitgarg5689@gmail.com**
-
-- 📫 How to reach me **arpitgarg5689@gmail.com**
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
