@@ -1,4 +1,4 @@
-![logo](![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png))
+![logo](https://github.com/Arpitgarg07/Arpitgarg07/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Arpit Garg</h1>
 <h3 align="center">Aspiring to be a Full Stack Developer.</h3>
 
