@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitgarg07&label=Profile%20views&color=fa8900&style=plastic" alt="arpitgarg07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/arpitgarg5689" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/arpitgarg5689?logo=twitter&style=for-the-badge" alt="https://twitter.com/arpitgarg5689" /></a> </p>
 
 - 🔭 I’m currently working on [Bug Bounty](https://github.com/Arpitgarg07/Bug-bounty)
 
@@ -37,6 +36,7 @@
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arpitgarg5y" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitgarg07&show_icons=true&locale=en&layout=compact" alt="arpitgarg07" /></p><br>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arpitgarg07&show_icons=true&theme=dark&title_color=fa8900&hide_border=true&locale=en" alt="arpitgarg07" /></p><br>
 
