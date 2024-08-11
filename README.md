@@ -25,7 +25,7 @@
 <a href="https://twitter.com/https://twitter.com/arpitgarg5689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/arpitgarg5689" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitgarg5689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitgarg5689" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/arpit_garg74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpit_garg74" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucai-eonczhnaaqr_ff3hrsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucai-eonczhnaaqr_ff3hrsa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@campus_coder74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucai-eonczhnaaqr_ff3hrsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
