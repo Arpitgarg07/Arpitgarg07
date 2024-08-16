@@ -216,7 +216,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
+<br clear="both">
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
 
 ###
 
