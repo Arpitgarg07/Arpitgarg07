@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![ban.png](https://github.com/Arpitgarg07/Arpitgarg07/blob/main/ban.png)
 ###
 
 <div align="center">
