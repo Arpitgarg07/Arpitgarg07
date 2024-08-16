@@ -1,9 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="237" src="https://i.ibb.co/rkkcRTL/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"  />
-</div>
-
+![alt text](http://url/to/img.png)
 ###
 
 <div align="center">
