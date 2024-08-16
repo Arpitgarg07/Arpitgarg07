@@ -214,7 +214,11 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/arpitgarg07/arpitgarg07/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
