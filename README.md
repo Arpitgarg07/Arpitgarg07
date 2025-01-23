@@ -184,15 +184,6 @@
 </div>
 
 ###
-
-<h3 align="left">✍️ Random Dev Quote</h3>
-
-###
-
-<img align="left" height="180" src="https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -207,22 +198,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
 </div>
 
-###
-<div align="center">
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
-</div>
 
 ###
 
