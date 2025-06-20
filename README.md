@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Arpitgarg07&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
-
 ![ban.png](https://github.com/Arpitgarg07/Arpitgarg07/blob/main/ban.png)
 ###
 
