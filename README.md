@@ -12,7 +12,8 @@
 
 <!-- TYPEWRITER ANIMATION -->
 <a href="https://arpitt.in">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=UI%2FUX+Designer+%7C+Full+Stack+Developer;50%2B+Screens+%7C+10%2B+Clients+%7C+Real+Products;Design+Beautiful.+Build+Functional.+Ship+Fast.;From+Jaipur%2C+India+to+Your+Screen+%F0%9F%87%AE%F0%9F%87%B3;Open+to+Internships+%26+Freelance" alt="Typing SVG"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&..."/>
+  <img width="100%" src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/banner.svg"/>
 </a>
 
 <br/>
