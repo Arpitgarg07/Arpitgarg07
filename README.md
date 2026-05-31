@@ -291,8 +291,6 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-> ⚙️ *Snake needs a one-time GitHub Actions setup — see guide below.*
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -307,21 +305,12 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [arpitt.in](https://arpitt.in) | [arpitgarg5689](https://www.linkedin.com/in/arpitgarg5689) | [Mail Me](mailto:arpitgarg5689@gmail.com) | [@Arpitgarg5689](https://X.com/Arpitgarg5689) | [@arpit_garg74](https://www.instagram.com/arpit_garg74) | [campus_coder74](https://www.youtube.com/@campus_coder74) |
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitt.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitgarg5689)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitgarg5689@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://X.com/Arpitgarg5689)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@campus_coder74)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arpit_garg74)
-
 </div>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- ──────────────── FOOTER ──────────────── -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s+Create+Something+Extraordinary!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s+Create+Something+Extraordinary!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/> -->
 
 <div align="center">
 
