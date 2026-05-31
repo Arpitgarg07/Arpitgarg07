@@ -1,31 +1,30 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--   ARPIT GARG · GitHub Profile README                          -->
-<!--   Designer who codes. Developer who designs.                  -->
+<!--   ARPIT GARG · GitHub Profile README                            -->
+<!--   Designer who codes. Developer who designs.                    -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ANIMATED HERO HEADER -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=ARPIT%20GARG&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Designer%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=22&descColor=C4B5FD"/> -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- HEADER BANNER — violet theme matching portfolio -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:3b0764,100:6d28d9&height=200&section=header&text=ARPIT%20GARG&fontSize=80&fontColor=ede9fe&animation=fadeIn&fontAlignY=38&desc=Product%20Designer%20%26%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=a78bfa"/>
+
 
 <div align="center">
 
-<!-- TYPEWRITER ANIMATION -->
+<!-- TYPEWRITER -->
 <a href="https://arpitt.in">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=UI%2FUX+Designer+%7C+Full+Stack+Developer;50%2B+Screens+%7C+10%2B+Clients+%7C+Real+Products;Design+Beautiful.+Build+Functional.+Ship+Fast.;From+Jaipur%2C+India+to+Your+Screen+%F0%9F%87%AE%F0%9F%87%B3;Open+to+Internships+%26+Freelance" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=UI%2FUX+Designer+%7C+Full+Stack+Developer;50%2B+Screens+%7C+10%2B+Clients+%7C+Real+Products;Design+Beautiful.+Build+Functional.+Ship+Fast.;From+Jaipur%2C+India+to+Your+Screen;Open+to+Internships+%26+Freelance" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- STATUS + VIEWS -->
 <img src="https://img.shields.io/badge/Status-Open_To_Work-4ade80?style=for-the-badge&labelColor=0d1117&color=16a34a"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Arpitgarg07&style=for-the-badge&color=8B5CF6&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Arpitgarg07&style=for-the-badge&color=6d28d9&label=Profile+Views"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES ROW -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-arpitt.in-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitt.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arpitt.in-6d28d9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitt.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitgarg5689)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitgarg5689@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://X.com/Arpitgarg5689)
@@ -35,14 +34,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ──────────────── TERMINAL INTRO ──────────────── -->
+<!-- ──────────────── TERMINAL ──────────────── -->
 
 <div align="center"><h2>💻 &nbsp;<code>$ whoami</code></h2></div>
 
 ```bash
 ┌──(arpit㉿portfolio)-[~]
 └─$ cat about.json
-
 {
   "name"       : "Arpit Garg",
   "title"      : "Product Designer + Full Stack Developer",
@@ -57,8 +55,6 @@
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── DUAL IDENTITY ──────────────── -->
 
 ## ⚡ Two Roles. One Vision.
 
@@ -103,8 +99,6 @@ AI Integration · Voice-powered Tools
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ──────────────── TECH STACK ──────────────── -->
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Development
@@ -125,7 +119,7 @@ AI Integration · Voice-powered Tools
 
 ### 🤖 AI Tools I Use Daily
 <div align="center">
-<img src="https://img.shields.io/badge/Claude_Code-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-6d28d9?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stitch_AI-FF6B35?style=for-the-badge"/>
@@ -133,8 +127,6 @@ AI Integration · Voice-powered Tools
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── CURRENTLY ──────────────── -->
 
 ## 📌 Right Now
 
@@ -148,8 +140,6 @@ AI Integration · Voice-powered Tools
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── PROJECTS ──────────────── -->
 
 ## 🚀 Featured Projects
 
@@ -215,15 +205,13 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 
 <br/>
 
-[![All Projects](https://img.shields.io/badge/🌐_All_Projects_@_arpitt.in-8B5CF6?style=for-the-badge)](https://arpitt.in)
+[![All Projects](https://img.shields.io/badge/🌐_All_Projects_@_arpitt.in-6d28d9?style=for-the-badge)](https://arpitt.in)
 &nbsp;
 [![All Repos](https://img.shields.io/badge/📁_All_GitHub_Repos-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpitgarg07?tab=repositories)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── EXPERIENCE ──────────────── -->
 
 ## 🏅 Experience Timeline
 
@@ -241,61 +229,47 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ──────────────── GITHUB STATS ──────────────── -->
-
 ## 📊 GitHub Analytics
+
+<!-- Stats generated by GitHub Actions — always reliable, no Vercel needed -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpitgarg07&show_icons=true&theme=aura&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=arpitgarg07&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=10" height="165" alt="Streak Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitgarg07&layout=donut&theme=aura&hide_border=true&border_radius=10&langs_count=8" height="200" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/generated/overview.svg" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/generated/languages.svg" alt="Top Languages"/>
 
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpitgarg07&theme=algolia&column=-1&row=1&margin-w=8&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arpitgarg07&theme=discord&column=-1&row=1&margin-w=8&no-frame=true&no-bg=true"/>
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitgarg07&theme=react-dark&area=true&hide_border=true&radius=16&color=A78BFA&line=8B5CF6&point=06B6D4" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitgarg07&theme=react-dark&area=true&hide_border=true&radius=16&color=A78BFA&line=6d28d9&point=a78bfa" width="100%"/>
 </div>
 
-<details>
-<summary>🌐 &nbsp;<b>3D Contribution Calendar</b> (click to expand · requires GitHub Actions setup)</summary>
-
-<br/>
+## 🌐 3D Contribution Calendar
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-</details>
-
-<br/>
-
 ## 🐍 Contributions Being Devoured
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── CONNECT ──────────────── -->
 
 ## 🤝 Let's Connect & Build Something
 
@@ -307,17 +281,15 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<!-- ──────────────── FOOTER ──────────────── -->
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s+Create+Something+Extraordinary!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/> -->
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:3b0764,100:0d0d1a&height=140&section=footer&text=Let%27s+Create+Something+Extraordinary!&fontSize=22&fontColor=ede9fe&fontAlignY=65&animation=twinkling"/>
 
 <div align="center">
 
 ⭐ **Liked something here? Star my repos — it genuinely means a lot.**
 
 *Made with ❤️ + ☕ by **Arpit Garg** from Jaipur, India*  
-*Designer who codes. Developer who designs. © 2025*
+*Designer who codes. Developer who designs. © 2026*
 
 </div>
-
