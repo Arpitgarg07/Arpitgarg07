@@ -239,12 +239,6 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpitgarg07&theme=discord&column=-1&row=1&margin-w=8&no-frame=true&no-bg=true"/>
-</div>
-
 ### 📈 Contribution Activity
 
 <div align="center">
