@@ -277,8 +277,6 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 <img src="https://raw.githubusercontent.com/Arpitgarg07/Arpitgarg07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-> See the **⚙️ Setup Guide** at the bottom to enable this.
-
 </details>
 
 <br/>
@@ -320,25 +318,7 @@ Full stack MERN app connecting buyers and sellers in the same neighbourhood. RES
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ──────────────── FUN SECTION ──────────────── -->
-
-<div align="center">
-
-### 😂 Random Dev Joke
-*Refreshes on every visit!*
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%23A78BFA&aColor=%2306B6D4&bgColor=%230d1117&borderColor=%238B5CF6&codeColor=%23A78BFA" width="480" alt="Dev Joke"/>
-
-<br/><br/>
-
-### 💬 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="480" alt="Quote of the Day"/>
-
-</div>
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- ──────────────── FOOTER ──────────────── -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let%27s+Create+Something+Extraordinary!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
